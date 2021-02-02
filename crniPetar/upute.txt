@@ -1,0 +1,7 @@
+Preduvjeti za pokretanje:
+Instaliran Python 3, lokalno pokrenut XMPP poslužitelj.
+
+Pokretanje:
+U konzoli se pozicionirati u mapu sa skriptama i upisati
+
+python3 crniPetar.py
